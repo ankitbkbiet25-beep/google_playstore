@@ -1,6 +1,3 @@
------
-
-```
 # Google Play Store Rating Predictor: Strategic Classification Ensemble
 
 ## Project Overview
@@ -77,6 +74,3 @@ The repository is structured to be immediately runnable.
     ```bash
     streamlit run main.py
     ```
-````
-
------
